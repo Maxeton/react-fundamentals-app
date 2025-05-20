@@ -90,7 +90,7 @@ export const Login = ({ setToken, setUserName }) => {
         </form>
 
         <p>
-          <span>If you don't have an account you </span>
+          <span>If you don't have an account </span>
           <Link to="/registration" data-testid="registrationLink">
             Registration
           </Link>
